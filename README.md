@@ -2,6 +2,13 @@ UJIAN TENGAH SEMESTER PEMROGRAMAN BERBASIS WEB
 
 Aplikasi Web Rumah Jahit Hilly : berisi informasi mengenai tailor Rumah Jahit Hilly, mulai dari layanan hingga produk
 
+FITUR :
+- homepage : layanan dan produk
+- Login
+- Dashboard
+- Pengelolaan layanan dan stok
+- Jadwal
+
 Digunakan:
 - HTML
 - CSS
