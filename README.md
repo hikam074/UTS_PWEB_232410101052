@@ -18,3 +18,5 @@ Digunakan:
 Note:
 - pastikan terhubung dengan internet ketika membukanya karena menggunakan CDN untuk beberapa segmen
 - Jangan lupa jalankan "npm run dev" kemudian "php artisan serve" untuk menjalankan aplikasi
+
+ps. vercelnya error
